@@ -1,3 +1,1 @@
-local key = {}
-key.value = "KLG4MGOIV"
-return key
+local key = "JG4K93CM"
