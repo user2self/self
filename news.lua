@@ -1,3 +1,3 @@
 local news = {}
-news["1"] = {title = "Discord", description = "Join our discord server for giveaways! 🎉"}
+news["1"] = {title = "Key not Working?", description = "Go to our discord to get new key."}
 return news
