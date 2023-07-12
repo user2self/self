@@ -13,3 +13,4 @@ data.info = function()
     description = "Visit our discord server to get key."
   }
 end
+return data
