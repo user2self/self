@@ -4,7 +4,7 @@ data.version = function()
 end
 
 data.key = function()
-  return "b9icK4oA" -- Lenght 8
+  return "CK348MV8" -- Lenght 8
 end
 
 data.info = function()
